@@ -1,5 +1,6 @@
 #' @useDynLib RSeqLib
 #' @importFrom Rcpp sourceCpp
+#' @importFrom GenomeInfoDb seqlevels seqinfo Seqinfo
 #' @import data.table reshape2 parallel
 NULL
 
