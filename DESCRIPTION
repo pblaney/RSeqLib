@@ -25,7 +25,7 @@ Imports:
     rtracklayer,
     gUtils
 Remotes:
-  github::mskilab/gUtils
+  github::mskilab-org/gUtils
 BugReports: http://github.com/mskilab/RSeqLib/issues
 LinkingTo: Rcpp
 Encoding: UTF-8
